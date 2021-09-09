@@ -70,7 +70,7 @@ const Home: NextPage = () => {
         </div>
       </div>
       <div className="w-full bg-custom-blue text-center pb-24 pt-10">
-        <div className="w-3/4 xl:w-2/4 bg-custom-green border-custom-border border-8 mx-auto mt-10 p-8 text-xl text-white font-bold">
+        <div className="w-3/4 xl:w-2/4 bg-custom-green border-custom-border border-8 mx-auto mt-10 p-8 text-xl text-white font-bold mb-24">
           <p className="my-3 font-bold">Total Summoners</p>
           <p>{metadata.summoners}</p>
           <p className="my-3 font-bold">Synced Percentage</p>
